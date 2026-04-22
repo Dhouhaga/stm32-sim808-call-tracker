@@ -49,3 +49,5 @@ Incoming Call → Check Number → Get GPS → Send SMS
 - Pet/luggage locator
 
 **No app needed. Just call, get location.**
+
+*Made for STM32F407 | SIM808 | Embedded C*
