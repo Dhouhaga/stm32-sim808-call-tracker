@@ -35,7 +35,7 @@ Incoming Call → Check Number → Get GPS → Send SMS
 ## 3 Scenarios (all tested)
 
 - **Scenario 1** - Auto-call your phone
-- **Scenario 2** - LED on when you call  
+- **Scenario 2** - LED on when **YOU** call  
 - **Scenario 3** - Send location via SMS
 
 ## SMS Example
