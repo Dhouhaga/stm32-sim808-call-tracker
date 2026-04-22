@@ -12,11 +12,13 @@ When **YOU** call this device, it:
 
 ## Hardware
 
-| Component | Pin |
-|-----------|-----|
-| STM32F407 | - |
-| SIM808 | USART2 (PA2, PA3) |
-| LED | PD12 |
+| STM32F407 Pin | SIM808 Pin | Function |
+|---------------|------------|----------|
+| PA2 (TX) | RX | UART2 Transmit |
+| PA3 (RX) | TX | UART2 Receive |
+| PD12 | LED (optional) | Status Indicator |
+| GND | GND | Common Ground |
+| 3.3V/5V | VCC | Power |
 
 ## Quick Start
 
