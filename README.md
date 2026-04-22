@@ -10,7 +10,7 @@ When **YOU** call this device, it:
 2. Fetches live GPS coordinates  
 3. Sends you a **Google Maps link** via SMS
 
-## 🔧 Hardware
+## Hardware
 
 | Component | Pin |
 |-----------|-----|
@@ -47,17 +47,3 @@ Incoming Call → Check Number → Get GPS → Send SMS
 - Pet/luggage locator
 
 **No app needed. Just call, get location.**
-
----
-
-*Made for STM32F407 | SIM808 | Embedded C*
-
-## 🏆 Why STM engineers will like it:
-
-- **Clean macros** (`#define MY_PHONE_NUMBER`)
-- **Modular functions** (GPIO, UART, GPS, GSM separated)
-- **Commented scenarios** (shows understanding of 3 use cases)
-- **Real hardware** (not just simulation)
-- **Practical application** (solves real problem)
-
-Go with **`stm32f407-sim808-gps-tracker`** — professional and searchable! 🚀
